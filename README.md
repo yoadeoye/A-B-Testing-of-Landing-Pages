@@ -10,14 +10,14 @@ What are the questions a marketer needs to ask before making a decision to perfo
 the task here is to perform A/B testing to find the best campaign for an anonymous company to get more customers
 
 # METHODOLOGY
-A/B TESTING USING EXPLORATORY DATA ANALYSIS
-HYPOTHESIS TESTING 
+1. A/B TESTING USING EXPLORATORY DATA ANALYSIS
+2. HYPOTHESIS TESTING 
 
 # TOOLS
-PYTHON
-PLOTLY
-STATSMODEL
-PANDAS,NUMPY, SEABORN
-DATETIME
-SCIPY
-2 SAMPLE T-TEST
+1.PYTHON
+2.PLOTLY
+3.STATSMODEL
+4. PANDAS,NUMPY, SEABORN
+5. DATETIME
+6. SCIPY
+7. 2 SAMPLE T-TEST
