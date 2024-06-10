@@ -1,0 +1,9 @@
+,Metrics,T-statistics,P-value,P-value < α ,Hypotheis,Inference
+0,Amount Spent,-2.9699915165656674,0.004330250483988579,True,Reject Ho/Accept Ha,significant diff
+1,nImpressions,4.969499291621205,8.136360620352422e-06,True,Reject Ho/Accept Ha,significant diff
+2,nSearch,-1.1571152742923108,0.25398841901522656,False,Reject Ha/Accept Ho,No significant diff
+3,nViewContent,0.48443612567863836,0.6300062463747775,False,Reject Ha/Accept Ho,No significant diff
+4,nAddOfCart,4.3229665186173625,6.264755572645715e-05,True,Reject Ho/Accept Ha,significant diff
+5,nPurchase,0.03066909523750146,0.9756410327354872,False,Reject Ha/Accept Ho,No significant diff
+6,CTR,-3.428418911935099,0.0017565526108973143,True,Reject Ho/Accept Ha,significant diff
+7,conv_rate,3.8476518679357308,0.0004590092323089189,True,Reject Ho/Accept Ha,significant diff
